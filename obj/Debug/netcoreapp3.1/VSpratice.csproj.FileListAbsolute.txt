@@ -1,0 +1,11 @@
+c:\Users\ASUS\Desktop\VSpratice\bin\Debug\netcoreapp3.1\VSpratice.exe
+C:\Users\ASUS\Desktop\VSpratice\bin\Debug\netcoreapp3.1\VSpratice.deps.json
+C:\Users\ASUS\Desktop\VSpratice\bin\Debug\netcoreapp3.1\VSpratice.runtimeconfig.json
+C:\Users\ASUS\Desktop\VSpratice\bin\Debug\netcoreapp3.1\VSpratice.runtimeconfig.dev.json
+c:\Users\ASUS\Desktop\VSpratice\bin\Debug\netcoreapp3.1\VSpratice.dll
+c:\Users\ASUS\Desktop\VSpratice\bin\Debug\netcoreapp3.1\VSpratice.pdb
+c:\Users\ASUS\Desktop\VSpratice\obj\Debug\netcoreapp3.1\VSpratice.csprojAssemblyReference.cache
+c:\Users\ASUS\Desktop\VSpratice\obj\Debug\netcoreapp3.1\VSpratice.AssemblyInfoInputs.cache
+c:\Users\ASUS\Desktop\VSpratice\obj\Debug\netcoreapp3.1\VSpratice.AssemblyInfo.cs
+c:\Users\ASUS\Desktop\VSpratice\obj\Debug\netcoreapp3.1\VSpratice.dll
+c:\Users\ASUS\Desktop\VSpratice\obj\Debug\netcoreapp3.1\VSpratice.pdb
