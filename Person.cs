@@ -7,7 +7,7 @@ namespace VSpratice
     public class Person
     {
         public string name{set;get;}
-
+        //"??????????"
         private String newId;
         private int newHeight;
         private int newWeight;
